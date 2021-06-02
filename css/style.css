@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+}
+.div1{
+    background-color: bisque;
+}
+.headp{
+    margin: 5px auto 15px auto;
+    font-size: 2.188em;
+    font-family:'Josefin Slab', serif;
+}
+h1{ 
+    margin: 0 auto 0 auto;
+    width: 12em;
+    font-size: 3.9em;
+    font-family: 'Kaushan Script', cursive , serif;
+}
+p{  padding: 1rem 3.125rem 1rem 3.125rem ;
+    font-family:'Josefin Slab', serif;
+}
+h3{
+    font-size: 2.0em;
+    font-family: 'Kaushan Script', cursive , serif;
+ }
+h2{
+   font-size: 2.0em;
+   font-family: 'Kaushan Script', cursive , serif;
+}
+.mount{
+    width: 100%;
+}
+.dp{
+    height: 20em;
+    width: 20em;
+}
+.top{
+    background-color: #dad8d8;
+}
+.middle{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #aad8d3;
+}
+.contact{
+    
+    background-color: #393e46;
+}
+.linkimg{
+    padding-right: 50px;
+    padding-top: 20px;
+    height: 3em;
+}
+.linkimg2{
+    padding-top: 20px;
+    
+    height: 3em;
+}
+.linkimg3{
+    padding-top: 20px;
+    padding-left: 50px;
+    height: 3em;
+}
